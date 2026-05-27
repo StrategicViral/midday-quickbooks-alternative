@@ -73,6 +73,31 @@ We are working on the documentation to get started with Midday for local develop
 - Gemini
 - OpenAI
 
+
+## Running Midday locally
+To run Midday locally, you’ll need to set up the following:
+```
+A Supabase account
+An Upstash account
+​```
+### Step 1: Local setup
+First, you’ll need to clone the Midday repo and install the dependencies.
+
+**1. Clone the repo**
+
+First, clone the midday.ai repo into a public GitHub repository.
+
+```
+git clone https://github.com/midday-ai/midday.git
+```
+**2. Install dependencies**
+
+Run the following command to install the dependencies:
+
+```
+bun i
+```
+
 ## Repo Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/96aae855e5dd87c30d53c1d154b37cf7aa5a89b3.svg "Repobeats analytics image")
