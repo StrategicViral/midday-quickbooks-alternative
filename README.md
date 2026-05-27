@@ -77,8 +77,9 @@ We are working on the documentation to get started with Midday for local develop
 ## Running Midday locally
 To run Midday locally, you’ll need to set up the following:
 
-**A Supabase account**
-**An Upstash account**
+**A [Supabase](https://supabase.com/) account**
+
+**An [Upstash](https://upstash.com/) account**
 ​
 ### Step 1: Local setup
 
