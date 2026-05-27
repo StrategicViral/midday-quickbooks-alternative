@@ -77,10 +77,12 @@ We are working on the documentation to get started with Midday for local develop
 ## Running Midday locally
 To run Midday locally, you’ll need to set up the following:
 ```
-A Supabase account
-An Upstash account
+ A Supabase account
+ An Upstash account
 ​```
+
 ### Step 1: Local setup
+
 First, you’ll need to clone the Midday repo and install the dependencies.
 
 **1. Clone the repo**
@@ -88,7 +90,7 @@ First, you’ll need to clone the Midday repo and install the dependencies.
 First, clone the midday.ai repo into a public GitHub repository.
 
 ```
-git clone https://github.com/midday-ai/midday.git
+ git clone https://github.com/midday-ai/midday.git
 ```
 **2. Install dependencies**
 
